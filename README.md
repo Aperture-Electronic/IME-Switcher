@@ -23,4 +23,7 @@ A: 一些输入法启动很慢，可以等以下，或切换几个不同的文�
 ## 自行编译
 本作品开源，您可以根据需要自行修改代码重新编译程序。  
 目前，本作品是在Android Studio上，利用Android 10 SDK开发的，开发语言是Kotlin。  
-您可以通过Android Studio打开仓库目录，重新构建应用程序。  
+您可以通过Android Studio打开仓库目录，重新构建应用程序。
+
+## 镜像仓库
+本作品在其它代码托管平台拥有镜像仓库 [GitHub](https://github.com/Aperture-Electronic/IME-Switcher) [Gitee](https://gitee.com/apertureelectronic/ime-switcher)
