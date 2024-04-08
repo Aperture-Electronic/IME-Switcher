@@ -8,17 +8,18 @@
 1. 安装应用 APK 文件；
 2. 在“设置”中，向 IME Switcher 应用提供以下权限，如图所示；
    - 其它权限/后台弹出界面
-   - 其它权限/显示悬浮窗
-     ![权限设置](manual_imgs/permission.jpg)
+   - 其它权限/显示悬浮窗  
+     <img src="https://gitee.com/apertureelectronic/ime-switcher/raw/master/manual_imgs/permission.jpg" alt="权限设置" width="200">
 3. 同样在“设置”中，允许 IME Switcher 发送通知，如图所示；
-   ![通知设置](manual_imgs/notification.jpg)
+   <img src="https://gitee.com/apertureelectronic/ime-switcher/raw/master/manual_imgs/notification.jpg" alt="通知设置" width="200">
 4. 同样在“设置”中，将 IME Switcher 的自启动打开，如图所示；
-   ![自启动设置](manual_imgs/autostart.jpg)
+   <img src="https://gitee.com/apertureelectronic/ime-switcher/raw/master/manual_imgs/autostart.jpg" alt="自启动设置" width="200">
+
 5. 启动 IME Switcher，应用将显示白屏后自动关闭；
 6. 在“应用历史记录”中（小米手机全面屏手势为从底部上滑打开，按键为菜单键），可以找到白色屏幕的 IME Switch 应用，长按选择锁头将其锁定，如图所示（没锁定的时候锁头图标是上锁的），防止请后台的时候误清理；
-   ![锁定](manual_imgs/lock.jpg)
+   <img src="https://gitee.com/apertureelectronic/ime-switcher/raw/master/manual_imgs/lock.jpg" alt="锁定前" width="200">
 7. 锁定后的应用如图所示，请不要上滑关闭应用；
-   ![锁定后](manual_imgs/locked.jpg)
+   <img src="https://gitee.com/apertureelectronic/ime-switcher/raw/master/manual_imgs/locked.jpg" alt="锁定后" width="200">
 8. 此时，在系统通知栏就会出现 IME Switcher 的入口，在任意时候点击可以切换输入法
 
 ## 疑难解答 (Q&A)
